@@ -23,3 +23,10 @@ helloworld-test
 *.njsproj
 *.sln
 *.sw?
+
+# direnv
+.cache
+.direnv
+
+# nix
+result
